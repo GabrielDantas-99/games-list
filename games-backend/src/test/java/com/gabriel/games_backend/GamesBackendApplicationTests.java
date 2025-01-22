@@ -1,10 +1,10 @@
-package com.gabriel.movies_api;
+package com.gabriel.games_backend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MoviesApiApplicationTests {
+class GamesBackendApplicationTests {
 
 	@Test
 	void contextLoads() {

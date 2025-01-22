@@ -1,4 +1,4 @@
-package com.gabriel.movies_api.entities;
+package com.gabriel.games_backend.entities;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

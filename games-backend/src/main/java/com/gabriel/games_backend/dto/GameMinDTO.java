@@ -23,7 +23,7 @@ public record GameMinDTO(
     this(
         projection.getId(),
         projection.getTitle(),
-        projection.getYear(),
+        projection.getGameYear(),
         projection.getImgUrl(),
         projection.getShortDescription());
   }
